@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm [Alakesh Debnath] 👋
+**Data Scientist | Machine Learning Engineer**
 
-<!--
-**AlakeshDebnath/AlakeshDebnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about transforming raw data into actionable business value. Experienced in building predictive models, optimizing data pipelines, and deploying scalable ML applications.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ... (e.g., An LLM-powered financial advisor)
+- 🌱 I’m currently learning ... (e.g., PyTorch Lightning, MLOps, AWS SageMaker)
+- 💬 Ask me about ... **Python, SQL, Predictive Modeling, NLP**
+- 📫 How to reach me: **[LinkedIn Link] | [Email] | [Portfolio Website Link]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python (Pandas, NumPy, Scikit-Learn, SciPy), SQL, R
+- **Machine Learning/DL:** TensorFlow, PyTorch, XGBoost, Keras
+- **Data Engineering & Visualization:** Apache Spark, Airflow, Tableau, PowerBI, Seaborn, Plotly
+- **DevOps & Cloud:** Docker, Git, AWS (S3, EC2), GitHub Actions
+- **Deployment:** Streamlit, FastAPI, Flask
+
+### 📊 My GitHub Stats
+![Your GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
